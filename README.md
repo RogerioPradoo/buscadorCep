@@ -1,4 +1,6 @@
-Aplicativo feito para buscar cep digitado.
+Buscador de cep
+
+Aplicativo feito para fazer a busca de cep. Contem 1 campo de input para a digitação numéricas com dois botões um de buscar outro de limpar campo e tirar o modal, após feito a busca aparece em modal o cep encontrado.
 
 Aplicativo feito em react native, expo go e axios.
 
